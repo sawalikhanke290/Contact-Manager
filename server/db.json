@@ -1,0 +1,169 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "photo": "https://img.freepik.com/premium-photo/3d-illustration-teenager-boy-with-backpack-his-head_1142-50393.jpg?w=740",
+        "contact": "+1234567890",
+        "email": "john.doe@example.com",
+        "company": "XYZ Corp",
+        "title": "Software Engineer",
+        "groupID": 1
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "photo": "https://img.freepik.com/premium-photo/cartoon-character-with-glasses-red-shirt-that-says-i-m-boy_771335-49728.jpg?w=740",
+        "contact": "+1987654321",
+        "email": "jane.smith@example.com",
+        "company": "ABC Inc",
+        "title": "Marketing Manager",
+        "groupID": 2
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "photo": "https://img.freepik.com/premium-photo/memoji-happy-man-white-background-emoji_826801-6839.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1122334455",
+        "email": "alice.johnson@example.com",
+        "company": "DEF Corp",
+        "title": "HR Coordinator",
+        "groupID": 1
+      },
+      {
+        "id": 4,
+        "name": "Michael Brown",
+        "photo": "https://img.freepik.com/premium-photo/memoji-happy-man-white-background-emoji_826801-6838.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1555666777",
+        "email": "michael.brown@example.com",
+        "company": "GHI Ltd",
+        "title": "Project Manager",
+        "groupID": 3
+      },
+      {
+        "id": 5,
+        "name": "Emily Wilson",
+        "photo": "https://img.freepik.com/premium-photo/3d-avatar-character_113255-30530.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+        "contact": "+1444333222",
+        "email": "emily.wilson@example.com",
+        "company": "JKL Co",
+        "title": "Sales Executive",
+        "groupID": 2
+      },
+      {
+        "id": 6,
+        "name": "David Lee",
+        "photo": "https://img.freepik.com/premium-photo/cartoonish-3d-animation-boy-glasses-with-blue-hoodie-orange-shirt_899449-25777.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1666777888",
+        "email": "david.lee@example.com",
+        "company": "MNO Enterprises",
+        "title": "Financial Analyst",
+        "groupID": 1
+      },
+      {
+        "id": 7,
+        "name": "Olivia Martinez",
+        "photo": "https://img.freepik.com/free-photo/portrait-beautiful-young-woman-with-curly-hair-brown-hat_1142-42780.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1888999000",
+        "email": "olivia.martinez@example.com",
+        "company": "PQR Industries",
+        "title": "Operations Manager",
+        "groupID": 3
+      },
+      {
+        "id": 8,
+        "name": "Daniel Anderson",
+        "photo": "",
+        "contact": "+1777666555",
+        "email": "daniel.anderson@example.com",
+        "company": "STU Corporation",
+        "title": "Product Designer",
+        "groupID": 2
+      },
+      {
+        "id": 9,
+        "name": "Sophia Taylor",
+        "photo": "https://img.freepik.com/premium-photo/memoji-beautiful-girl-woman-white-background-emoji_826801-6872.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1999888777",
+        "email": "sophia.taylor@example.com",
+        "company": "VWX Ltd",
+        "title": "Human Resources Manager",
+        "groupID": 1
+      },
+      {
+        "id": 10,
+        "name": "Matthew Hernandez",
+        "photo": "https://img.freepik.com/premium-photo/memoji-handsome-guy-man-with-glasses-white-background-emoji-cartoon-character_826801-6953.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1222333444",
+        "email": "matthew.hernandez@example.com",
+        "company": "YZA Enterprises",
+        "title": "Software Developer",
+        "groupID": 3
+      },
+      {
+        "id": 11,
+        "name": "Chloe Garcia",
+        "photo": "https://img.freepik.com/premium-photo/vintage-anime-style-chubby-indonesian-woman-her-mid-thirties-with-short-bob-thick-glasses_852651-104.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1333444555",
+        "email": "chloe.garcia@example.com",
+        "company": "BCD Inc",
+        "title": "Marketing Coordinator",
+        "groupID": 2
+      },
+      {
+        "id": 12,
+        "name": "Ethan Nguyen",
+        "photo": "https://img.freepik.com/premium-photo/cartoon-character-with-blue-shirt-glasses_561641-2084.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1444555666",
+        "email": "ethan.nguyen@example.com",
+        "company": "EFG Corporation",
+        "title": "Financial Planner",
+        "groupID": 1
+      },
+      {
+        "id": 13,
+        "name": "Ava Perez",
+        "photo": "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151034097.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1555666777",
+        "email": "ava.perez@example.com",
+        "company": "HIJ Ltd",
+        "title": "Account Manager",
+        "groupID": 3
+      },
+      {
+        "id": 14,
+        "name": "Liam Rivera",
+        "photo": "https://img.freepik.com/free-photo/portrait-beautiful-young-business-woman-3d-rendering_1142-51666.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1666777888",
+        "email": "liam.rivera@example.com",
+        "company": "MNO Enterprises",
+        "title": "Customer Service Representative",
+        "groupID": 2
+      },
+      {
+        "id": 15,
+        "name": "Mia Campbell",
+        "photo": "https://img.freepik.com/free-photo/cute-girl-with-blond-hair-blue-eyes-3d-rendering_1142-51238.jpg?size=626&ext=jpg&ga=GA1.1.1758486681.1711634191&semt=sph",
+        "contact": "+1777888999",
+        "email": "mia.campbell@example.com",
+        "company": "PQR Industries",
+        "title": "Business Analyst",
+        "groupID": 1
+      }
+    ],
+    "groups": [
+      {
+        "id": 1,
+        "group": "Friends"
+      },
+      {
+        "id": 2,
+        "group": "Colleagues"
+      },
+      {
+        "id": 3,
+        "group": "Family"
+      }
+    ]
+  }
+  
